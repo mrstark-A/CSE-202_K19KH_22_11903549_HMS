@@ -1,0 +1,7 @@
+SL     NAME                SPECIALITY           PHONE           EMAIL
+------------------------------------------------------------------------------
+1. DR. Md Rezwanul Huq     Heart specialist    +956431     dmrh@gmail.com
+2. DR. MH Tarek            Psychiatrist        +958457     mhtarek@gmail.com
+3. DR. EM Mahir            Allergist           +936642     mahir@gmail.com
+4. DR. Mamun               Orthopedic          +945697     mamun@gmail.com
+5. DR. Tisha               Gynecologist        +913648     tisha7@gmailcom

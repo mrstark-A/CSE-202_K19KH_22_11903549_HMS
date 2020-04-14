@@ -5,7 +5,7 @@ Password : 123
 
 DO NOT DELETE ANY TEXT FILES INSIDE THE MAIN PROJECT FOLDER.
 
-NOTE:    "doc details.txt" files are LINKED WITH THE PROGRAM.
+NOTE:    "doc details.txt"and search menu.txt files are LINKED WITH THE PROGRAM.
 
 
 ***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
